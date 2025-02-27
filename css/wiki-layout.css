@@ -97,7 +97,7 @@ aside h2 {
   font-size: 1.7rem;
 }
 
-.profile-image {
+/* .profile-image {
   background-image: url("https://static.wikia.nocookie.net/arendelle/images/c/cf/Han-s.jpg/revision/latest?cb=20151103112818&path-prefix=ko");
   background-size: 100%;
   background-position: center 100%;
@@ -105,7 +105,7 @@ aside h2 {
   height: 300px;
 
   text-indent: -1000rem;
-}
+} */
 
 aside.right-sidebar nav {
   padding: var(--right-sidebar-padding);
