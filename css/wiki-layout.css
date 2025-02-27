@@ -98,11 +98,11 @@ aside h2 {
 }
 
 .profile-image {
-  background-image: url("https://images.unsplash.com/photo-1618979251882-0b40ef3617f0?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-image: url("https://static.wikia.nocookie.net/arendelle/images/c/cf/Han-s.jpg/revision/latest?cb=20151103112818&path-prefix=ko");
   background-size: 100%;
   background-position: center 100%;
-  width: var(--aside-width);
-  height: var(--aside-width);
+  width: 100%;
+  height: 300px;
 
   text-indent: -1000rem;
 }
